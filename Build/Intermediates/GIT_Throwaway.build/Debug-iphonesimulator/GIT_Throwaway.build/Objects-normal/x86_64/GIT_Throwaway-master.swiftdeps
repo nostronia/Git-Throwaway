@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "af8cc6c2ac3ab3ad8ea295f3dec55b73"
+build_time: [554232889, 266765000]
+inputs:
+  "/PROGRAMS/DevMtn/GIT_Throwaway/GIT_Throwaway/ViewController.swift": [554232887, 0]
+  "/PROGRAMS/DevMtn/GIT_Throwaway/GIT_Throwaway/AppDelegate.swift": [554232887, 0]
